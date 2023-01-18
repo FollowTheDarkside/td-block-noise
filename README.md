@@ -7,5 +7,5 @@
 A repository for block noise using [TouchDesigner](https://derivative.ca/).
 <br>
 <br>
-Demo video is ~~[here]()~~.
+Demo video is [here](https://youtu.be/_Vbw606byKQ).
 <br>
